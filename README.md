@@ -1,7 +1,7 @@
 # vimrc
 My .vimrc configuration for software development
 
-#Installation
+# Install Plugin Manager vim-plug
 
 [Download plug.vim](https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim)
 and put it in the "autoload" directory.
