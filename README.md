@@ -17,6 +17,7 @@ curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
 
 Open vim and run command :PlugInstall to install plugins.
 
+
 ### Vim-Plug Commands
 
 | Command                             | Description                                                        |
